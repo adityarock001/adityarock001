@@ -1,6 +1,6 @@
 # 💫About Me:
 Hi, I'm Aditya Raj, a Web Developer, UI/UX Designer, and Photographer from Bihar, India. I am passionate about creating impactful and inspiring work for startups and small businesses that make an impact, inspire and connect with people.
-When I'm not on PC, I enjoy going out with friends, exploring new places, and capturing memories. My passion lies in finding unique perspectives and moments that tell a compelling story through my lens.
+<Br>When I'm not on PC, I enjoy going out with friends, exploring new places, and capturing memories. My passion lies in finding unique perspectives and moments that tell a compelling story through my lens.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ad.raj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-raj-5a72a01bb/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/adityarock001) 
 
