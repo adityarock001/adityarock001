@@ -21,7 +21,7 @@ Hi, I'm Aditya Raj, a Web Developer, UI/UX Designer, and Photographer from Bihar
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 <!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
-  <img alt="github-snake" src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/adityarock001/adityarock001/blob/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
